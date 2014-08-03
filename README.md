@@ -1,8 +1,8 @@
 "Upload failed" = "فشل التحميل";
-"pastie.org is unreachable." = "pastie.org غير قابل للوصول.";
+"pastie.org is unreachable." = "pastie.org لا يمكن الوصول لـ.";
 ATTACHMENTS = "مرفقات";
 CANNOT_EMAIL = "لا يمكن إرسال البريد الألكتروني من هذا الجهاز.";
-CONTACT_AUTHOR = "الإتصال مع المطور";
+CONTACT_AUTHOR = "التواصل مع المطور";
 COPY = "نسخ";
 DETAIL_REQUIRED_MESSAGE = "يجب عليك إدخال رسالة لإتمام العملية.";
 DETAIL_REQUIRED_TITLE = "المدخلات المطلوبة";
